@@ -1,3 +1,24 @@
+# MediMatch – A Community Health Resource & Appointment Platform
+
+MediMatch is a database-driven platform designed to improve access to basic healthcare in underserved communities such as students, refugees, and uninsured individuals. While nonprofit clinics and community organizations offer vital health services, their impact is often limited by poor coordination, inefficient scheduling, and lack of visibility.
+
+MediMatch bridges this gap by:
+
+Connecting individuals to free or low-cost medical services
+
+Streamlining clinic and event organization
+
+Supporting appointment management, volunteer coordination, and feedback collection
+
+This project includes a full-stack implementation with:
+
+A Flask web interface for patients and organizers
+
+A CLI tool for quick data interaction and testing
+
+A normalized relational database schema with synthetic data generated for testing realistic scenarios
+
+MediMatch serves as a digital infrastructure for improving health equity and operational efficiency in community healthcare outreach.
 # create_db.py
 Initializes the MediMatch SQLite3 database.
 
